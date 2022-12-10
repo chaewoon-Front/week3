@@ -2,8 +2,20 @@
   "todos": [
     {
       "id": 1,
-      "title": "json-server",
+      "title": "13",
       "content": "json-server를 배워봅시다."
+    },
+    {
+      "title": "1",
+      "id": 2
+    },
+    {
+      "title": "1",
+      "id": 3
+    },
+    {
+      "title": "122",
+      "id": 4
     }
   ]
 }
